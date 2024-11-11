@@ -17,15 +17,13 @@ Example:
 
 ### Before
 
+![sample-video2](https://github.com/user-attachments/assets/2bc252c3-a39c-460d-b54e-9d8d855dc73e)
 
-
-https://github.com/user-attachments/assets/d8f1572b-49b8-492d-99fc-c0fda22b75a1
 
 
 ### After
 
-
-https://github.com/user-attachments/assets/8e4249b4-0c7b-410c-b66d-89562c12e93c
+![sample-video2-anon](https://github.com/user-attachments/assets/1fc572b9-9af2-4ed7-a9c6-3d638c73da8b)
 
 
 
